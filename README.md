@@ -1,6 +1,8 @@
 # campus-energy-dashboard--Sarthak-Gupta-
 Capstone Project Assignment: Campus Energy-Use Dashboard
-
+<br><br>
+<img width="874" height="901" alt="image" src="https://github.com/user-attachments/assets/17aee4a5-6085-4067-91da-bcc2c7ef58e8" />
+<br><br>
 🎯 Objective
 
 The goal of this project is to analyze electricity usage across multiple campus buildings and generate clear, actionable insights for improving energy efficiency.
